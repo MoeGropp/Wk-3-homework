@@ -31,9 +31,16 @@
     font-size: 18px;
     line-height: 1.5;
   }
-  @media(max-width: 700px){
-    
+  @media(max-width: 900px){
+    h1{
+      font-size: 48px;
+      line-height: 1.5px;  
+    }
+    h2{
+        font-size: 36px;
+    }
   }
+
   
   .navigation-links {
     display: flex;
